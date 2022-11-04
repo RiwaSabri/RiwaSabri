@@ -6,6 +6,14 @@ Here, you'll some of the data science projects I worked on as part as the Metis 
 
 ## Exploratory Data Analysis
 Exploring the Relationship between MTA Traffic and Citibike Capacity 
+<div class="row">
+  <div class="column">
+    <img src="Classification%20Image%201.png" alt="Snow" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="iClassification%20Image%201.png" alt="Forest" style="width:50%">
+  </div>
+</div>
 
 ## Regression
 Predicting Used Cars Prices on Cars.com 
