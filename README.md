@@ -18,7 +18,7 @@ Predicting Used Cars Prices on Cars.com
 Web Analytics for the Goggle Merchandise Store
 
 
-<img class="image-align-left" src="Dash1.png" style="width:50%"/><img class="image-align-left" src="Dash2.png" style="width:33%"/><img class="image-align-left" src="Dash3.png" style="width:33%"/>
+<img class="image-align-left" src="Dash2.png" style="width:100%"/>
 
 
 ## Classification
