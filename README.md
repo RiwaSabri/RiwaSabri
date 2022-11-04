@@ -6,6 +6,30 @@ Here, you'll some of the data science projects I worked on as part as the Metis 
 
 ## Exploratory Data Analysis
 Exploring the Relationship between MTA Traffic and Citibike Capacity 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
 <div class="row">
   <div class="column">
     <img src="Classification%20Image%201.png" style="width:50%">
@@ -14,6 +38,8 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
     <img src="Classification%20Image%202.png" style="width:50%">
   </div>
 </div>
+  </body>
+  </html>
 
 ## Regression
 Predicting Used Cars Prices on Cars.com 
