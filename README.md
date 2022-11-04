@@ -13,8 +13,13 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
 ## Regression
 Predicting Used Cars Prices on Cars.com 
 
+
 ## Business
 Web Analytics for the Goggle Merchandise Store
+
+
+https://user-images.githubusercontent.com/31965719/200078928-65cd2cbe-a14c-4089-a906-a3baa563e8ad.mov
+
 
 ## Classification
 Classifying Evergreen vs Ephemeral Content on StumpleUpon 
