@@ -1,5 +1,10 @@
 ### Hi there, I'm Riwa! 
 
+UX Researcher, trying to transition to Data Science. I have experience in analytics and research in e-commerce and Mar-tech. 
+
+Here, you'll some of the data science projects I worked on as part as the Metis Bootcamp. 
+
+
 <!--
 **RiwaSabri/RiwaSabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
