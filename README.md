@@ -4,15 +4,15 @@ UX Researcher, trying to transition to Data Science. I have experience in analyt
 
 Here, you'll some of the data science projects I worked on as part as the Metis Bootcamp. 
 
-### EDA
-![](Screen%20Shot%202022-11-04%20at%204.40.45%20PM.png)
-### Regression 
+### Exploratory Data Analysis: Exploring the Relationship between MTA Traffic and Citibike Capacity 
 
-### Business
+### Regression: Predicting Used Cars Prices on Cars.com 
 
-### Classification 
+### Business: Web Analytics for the Goggle Merchandise Store
 
-### NLP
+### Classification: Classifying Evergreen vs Ephemeral Content on StumpleUpon 
+
+### NLP: Building a Tweet Recommendation System 
 
 <!--
 **RiwaSabri/RiwaSabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
