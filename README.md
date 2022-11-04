@@ -19,15 +19,7 @@ Web Analytics for the Goggle Merchandise Store
 ## Classification
 Classifying Evergreen vs Ephemeral Content on StumpleUpon 
 
-<img class="image-align-left" src="Classification%20Image%201.png" style="width:50%"/><img class="image-align-left" src="Classification%20Image%201.png" style="width:50%"/>
-<div class="row">
-  <div class="column">
-    <img src="Classification%20Image%201.png" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="Classification%20Image%202.png" style="width:50%">
-  </div>
-</div>
+<img class="image-align-left" src="Classification%20Image%201.png" style="width:60%"/><img class="image-align-left" src="Classification%20Image%201.png" style="width:60%"/>
 
 
 
