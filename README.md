@@ -7,15 +7,13 @@ Here, you'll some of the data science projects I worked on as part as the Metis 
 ### EDA
 
 ### Regression 
- 
 
 ### Business
 
-
 ### Classification 
 
-
 ### NLP
+
 <!--
 **RiwaSabri/RiwaSabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
