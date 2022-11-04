@@ -15,7 +15,7 @@ Predicting Used Cars Prices on Cars.com
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 ## Business
-Web Analytics for the Goggle Merchandise Store
+Web Analytics for the Google Merchandise Store
 
 
 <img class="image-align-left" src="Dash2.png" style="width:100%"/>
