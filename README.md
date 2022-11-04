@@ -10,6 +10,9 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
   <div class="column">
     <img src="Classification%20Image%201.png" style="width:50%">
   </div>
+  <div class="column">
+    <img src="Classification%20Image%202.png" style="width:50%">
+  </div>
 </div>
 
 ## Regression
