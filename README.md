@@ -8,10 +8,10 @@ Here, you'll some of the data science projects I worked on as part as the Metis 
 Exploring the Relationship between MTA Traffic and Citibike Capacity 
 <div class="row">
   <div class="column">
-    <img src="Classification%20Image%201.png" alt="Snow" style="width:50%">
+    <img src="Classification%20Image%201.png" style="width:50%">
   </div>
   <div class="column">
-    <img src="iClassification%20Image%201.png" alt="Forest" style="width:50%">
+    <img src="iClassification%20Image%202.png" style="width:50%">
   </div>
 </div>
 
