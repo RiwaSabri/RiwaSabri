@@ -4,11 +4,16 @@ UX Researcher, trying to transition to Data Science. I have experience in analyt
 
 Here, you'll some of the data science projects I worked on as part as the Metis Bootcamp. 
 
-#### Exploratory Data Analysis: Exploring the Relationship between MTA Traffic and Citibike Capacity 
+#### Exploratory Data Analysis
+----------------------------------------
+Exploring the Relationship between MTA Traffic and Citibike Capacity 
 
-#### Regression: Predicting Used Cars Prices on Cars.com 
+#### Regression
+----------------------------------------
+Predicting Used Cars Prices on Cars.com 
 
 #### Business: Web Analytics for the Goggle Merchandise Store
+----------------------------------------
 
 #### Classification: Classifying Evergreen vs Ephemeral Content on StumpleUpon 
 
