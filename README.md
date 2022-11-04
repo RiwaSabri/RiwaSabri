@@ -13,7 +13,7 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
 ## Regression
 Predicting Used Cars Prices on Cars.com 
 
-<img class="image-align-left" src="Regression_1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression_2.jpeg" style="width:50%"/>
+<img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 ## Business
 Web Analytics for the Goggle Merchandise Store
 
