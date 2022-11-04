@@ -15,7 +15,7 @@ Web Analytics for the Goggle Merchandise Store
 
 ## Classification
 Classifying Evergreen vs Ephemeral Content on StumpleUpon 
-![](Classification%Image%201.png)
+![](Classification Image 1.png)
 
 #### NLP
 Building a Tweet Recommendation System 
