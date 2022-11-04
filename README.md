@@ -5,7 +5,7 @@ UX Researcher, trying to transition to Data Science. I have experience in analyt
 Here, you'll some of the data science projects I worked on as part as the Metis Bootcamp. 
 
 ### EDA
-
+![](Screen%20Shot%202022-11-04%20at%204.40.45%20PM.png)
 ### Regression 
 
 ### Business
