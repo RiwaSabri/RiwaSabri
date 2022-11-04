@@ -30,7 +30,7 @@ Classifying Evergreen vs Ephemeral Content on StumpleUpon
 
 #### NLP
 Building a Tweet Recommendation System 
-![Google Merchandise Store - Presentation](https://user-images.githubusercontent.com/31965719/200080016-4b2a4a2a-fbaf-4adf-a470-2447b9d3f900.gif)
+
 
 <!--
 **RiwaSabri/RiwaSabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
