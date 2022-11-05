@@ -7,7 +7,7 @@ Here, you'll some of the data science projects I worked on as part of the Metis 
 ## Exploratory Data Analysis
 Exploring the Relationship between MTA Traffic and Citibike Capacity 
 
-<img class="image-align-left" src="EDA_Image_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
+<img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
 
 ## Regression
