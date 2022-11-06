@@ -14,7 +14,7 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
 Predicting Used Cars Prices on Cars.com 
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
-## [Business](https://github.com/RiwaSabri/Business)
+## Business
 Web Analytics for the Google Merchandise Store
 
 
