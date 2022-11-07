@@ -1,7 +1,5 @@
 # Hi there, I'm Riwa!
 
-UX Researcher, trying to transition to Data Science. I have experience in analytics and research in e-commerce and Mar-tech. 
-
 Here, you'll some of the data science projects I worked on as part of the Metis Bootcamp. 
 
 ## Exploratory Data Analysis
