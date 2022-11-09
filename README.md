@@ -20,7 +20,7 @@ Web Analytics for the Google Merchandise Store
 <img class="image-align-left" src="Dash2.png" style="width:100%"/>
 
 
-## [Classification]((https://github.com/riwasabri/Classification)
+## [Classification](https://github.com/riwasabri/Classification)
 Classifying Evergreen vs Ephemeral Content on StumpleUpon 
 
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
