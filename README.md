@@ -8,25 +8,26 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
 
-## Regression
+## [Regression](https://github.com/riwasabri/Regression)
 Predicting Used Cars Prices on Cars.com 
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
-## Business
+
+## [Business]((https://github.com/riwasabri/Business)
 Web Analytics for the Google Merchandise Store
 
 
 <img class="image-align-left" src="Dash2.png" style="width:100%"/>
 
 
-## Classification
+## [Classification]((https://github.com/riwasabri/Classification)
 Classifying Evergreen vs Ephemeral Content on StumpleUpon 
 
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
 
 
 
-## NLP
+## [NLP](https://github.com/riwasabri/NLP)
 Building a Tweet Recommendation System 
 
 ![NLP- Presentation ](https://user-images.githubusercontent.com/31965719/200125869-55c9a877-da62-4bb0-9bfd-3f76bb3c558f.gif)
