@@ -8,12 +8,12 @@ Exploring the Relationship between MTA Traffic and Citibike Capacity
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
 
-## [Regression](https://github.com/riwasabri/Regression)
+## [Regression](https://github.com/riwasabri/Regression-)
 Predicting Used Cars Prices on Cars.com 
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 
-## [Business]((https://github.com/riwasabri/Business)
+## [Business](https://github.com/riwasabri/Business)
 Web Analytics for the Google Merchandise Store
 
 
