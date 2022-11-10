@@ -1,6 +1,6 @@
 # Hi there, I'm Riwa!
 
-Here, you'll some of the data science projects I worked on as part of the Metis Bootcamp. 
+Here, you'll find some of the data science projects I worked on as part of the Metis Bootcamp. 
 
 ## [Exploratory Data Analysis](https://github.com/riwasabri/EDA-MTA-Traffic-Citibike-Capacity)
 Exploring the Relationship between MTA Traffic and Citibike Capacity 
