@@ -9,7 +9,7 @@ Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
 
-## [Using the power of data to flip used cars](https://github.com/riwasabri/Regression-)
+## [Using the power of data to flip used cars](https://github.com/riwasabri/Using-the-power-of-data-to-flip-used-cars)
 I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.<br />
 Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib,Seaborn
 
