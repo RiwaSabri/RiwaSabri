@@ -9,27 +9,24 @@ Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
 
-## [Flipping used cars using data](https://github.com/riwasabri/Regression-)
-I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.
-
+## [Using the power of data to flip used cars](https://github.com/riwasabri/Regression-)
+I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.<br />
 Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib,Seaborn.
-
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 
-## [Business](https://github.com/riwasabri/Business)
-Web Analytics for the Google Merchandise Store
-
+## [Empowering business analysts to understand complex data with interactive dashboards](https://github.com/riwasabri/Business)
+I transformed Web Analytics data from the Google Merchandise Store, and built dashboards intended to help a business user parse through this complex dataset. I also proposed a clustering approach for better customer targeting..<br />
+Tools: Microsoft Excel, Tableau, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 <img class="image-align-left" src="Dash2.png" style="width:100%"/>
 
 
-## [Classification](https://github.com/riwasabri/Classification)
-Classifying Evergreen vs Ephemeral Content on StumpleUpon 
+## [How can StumbleUpon avoid surfacing stale content?](https://github.com/riwasabri/Classification)
+I built a classification model to predict whether an article on StumbleUpon is evergreen(timeless) or ephemeral.</br>
+Tools: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
-
-
 
 ## [NLP](https://github.com/riwasabri/NLP)
 Building a Tweet Recommendation System 
