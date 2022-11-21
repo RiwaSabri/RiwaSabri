@@ -32,7 +32,7 @@ Tools: Microsoft Excel, Tableau, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 
 ## [How can StumbleUpon avoid surfacing stale content?](https://github.com/riwasabri/How-can-StumbleUpon-avoid-surfacing-stale-content-)
-I built a classification model to predict whether an article on StumbleUpon is evergreen (timeless) or ephemeral.</br>
+I built a classification model to predict whether an article on StumbleUpon is evergreen (timeless) or ephemeral. I optimized the model for precision starting with two baseline models: kNN and Logistic Regression. I then did some feature engineering (using domain knowledge + TF-IDF), feature selection and hyperparameter tuning on to these two models before expanding to more complex models: Random Forest and XGBoost. Through cross-validation, I selected Logistic Regression as the best performing model.</br>
 Tools: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
