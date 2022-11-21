@@ -11,7 +11,7 @@ Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 
 ## [Using the power of data to flip used cars](https://github.com/riwasabri/Regression-)
 I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.<br />
-Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib,Seaborn.
+Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib,Seaborn
 
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 
@@ -23,13 +23,15 @@ Tools: Microsoft Excel, Tableau, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 
 ## [How can StumbleUpon avoid surfacing stale content?](https://github.com/riwasabri/Classification)
-I built a classification model to predict whether an article on StumbleUpon is evergreen(timeless) or ephemeral.</br>
+I built a classification model to predict whether an article on StumbleUpon is evergreen (timeless) or ephemeral.</br>
 Tools: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
 
-## [How can Twitter build a more engaging recommendation system using content?](https://github.com/riwasabri/NLP)
-I scraped tweets regarding two different topics: nightmares and caviar support complaints and used NLP to create a content-based tweet recommendation system that recommends 2-3 similar tweets to a given tweet. This allows users to explore relevant tweets, expanding reach beyond the tweet and its author recommended in the current Twitter interface. </br>
+## [A completely new way of discovering interesting tweets!](https://github.com/riwasabri/NLP)
+I created a content-based tweet recommendation system that would allow users to find "similar tweets" starting from any tweet. On the data science side, 
+I chose two topics (nightmares, caviar customer complaints), scraped relevant tweets, and used dimensionality reduction (PCA, NMF, ...) and cosine simlarity to recommend similar tweets. On the UX/UI side, I built a clickable prototype to demonstrate the new user experience. </br>
+Tools: Pandas, Numpy, Scikit Learn, NLTK, Regex, Gensim.
 
 ![NLP- Presentation ](https://user-images.githubusercontent.com/31965719/200125869-55c9a877-da62-4bb0-9bfd-3f76bb3c558f.gif)
 
