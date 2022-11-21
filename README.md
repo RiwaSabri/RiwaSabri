@@ -4,6 +4,7 @@ Here, you'll find some of the data science projects I worked on as part of the M
 
 ## [Where should Citi Bike build the next 10 bike docks?](https://github.com/riwasabri/EDA-MTA-Traffic-Citibike-Capacity)
 I combined MTA's station-level traffic data with Citi Bike's ride data to find locations with insufficient docking capacity.
+
 Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
@@ -11,6 +12,7 @@ Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 
 ## [Flipping used cars using data](https://github.com/riwasabri/Regression-)
 I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.
+
 Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib,Seaborn.
 
 
