@@ -29,7 +29,7 @@ Tools: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
 
 ## [How can Twitter build a more engaging recommendation system using content?](https://github.com/riwasabri/NLP)
-I scraped tweets regarding two different topics: nightmares and caviar support complaints and used NLP to create a content-based tweet recommendation system that would recommend 2-3 similar tweets to a given tweet. This would allow users to explore relevant tweets, expanding reach beyond the tweet and its author recommended in the current Twitter interface. </br>
+I scraped tweets regarding two different topics: nightmares and caviar support complaints and used NLP to create a content-based tweet recommendation system that recommends 2-3 similar tweets to a given tweet. This allows users to explore relevant tweets, expanding reach beyond the tweet and its author recommended in the current Twitter interface. </br>
 
 ![NLP- Presentation ](https://user-images.githubusercontent.com/31965719/200125869-55c9a877-da62-4bb0-9bfd-3f76bb3c558f.gif)
 
