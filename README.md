@@ -3,8 +3,7 @@
 Here, you'll find some of the data science projects I worked on as part of the Metis Bootcamp. 
 
 ## [Where should Citi Bike build the next 10 bike docks?](https://github.com/riwasabri/EDA-MTA-Traffic-Citibike-Capacity)
-I combined MTA's station-level traffic data with Citi Bike's ride data to find locations with insufficient docking capacity.
-
+I combined MTA's station-level traffic data with Citi Bike's ride data to find locations with insufficient docking capacity.<br />
 Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
 
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
