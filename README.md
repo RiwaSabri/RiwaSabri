@@ -5,14 +5,14 @@ Here, you'll find some of the data science projects I worked on as part of the M
 ## [A completely new way of discovering interesting tweets!](https://github.com/riwasabri/A-completely-new-way-of-discovering-interesting-tweets-/blob/master/README.md)
 I created a content-based tweet recommendation system that would allow users to find "similar tweets" starting from any tweet. On the data science side, 
 I chose two topics (nightmares, caviar customer complaints), scraped relevant tweets, and used dimensionality reduction (PCA, NMF, ...) and cosine simlarity to recommend similar tweets. On the UX/UI side, I built a clickable prototype to demonstrate the new user experience. </br>
-Tools: Pandas, Numpy, Scikit Learn, NLTK, Regex, Gensim.
+Tools: Pandas, Numpy, Scikit Learn, NLTK, Regex, Gensim
 
 ![NLP- Presentation ](https://user-images.githubusercontent.com/31965719/200125869-55c9a877-da62-4bb0-9bfd-3f76bb3c558f.gif)
 
 
 ## [Where should Citi Bike build the next 10 bike docks?](https://github.com/riwasabri/Where-should-Citi-Bike-build-the-next-10-bike-docks-)
 I combined MTA's station-level traffic data with Citi Bike's ride data to find locations with insufficient docking capacity.<br />
-Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium.
+Tools used: SQLite, Pandas, NumPy, Seaborn, Matplotlib, Folium
 
 <img class="image-align-left" src="EDA_1.jpeg" style="width:50%"/><img class="image-align-left" src="EDA_Image_2.jpeg" style="width:50%"/>
 
