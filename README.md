@@ -2,7 +2,7 @@
 
 Here, you'll find some of the data science projects I worked on as part of the Metis Bootcamp. 
 
-## [A new way of discovering interesting tweets](https://github.com/riwasabri/A-completely-new-way-of-discovering-interesting-tweets-/)
+## [A new way of discovering interesting tweets!](https://github.com/riwasabri/A-completely-new-way-of-discovering-interesting-tweets-/)
 I created a content-based tweet recommendation system that would allow users to find "related tweets" starting from any tweet. On the data science side, 
 I chose two topics (nightmares, caviar customer complaints), scraped relevant tweets, and used dimensionality reduction (PCA, NMF, ...) and cosine similarity to recommend "related tweets." On the UX/UI side, I built a clickable prototype to demonstrate the new user experience. </br>
 Tools: Pandas, Numpy, Scikit Learn, NLTK, Regex, Gensim
