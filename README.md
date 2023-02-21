@@ -36,3 +36,10 @@ I transformed Web Analytics data from the Google Merchandise Store, and built da
 Tools: Microsoft Excel, Tableau, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 <img class="image-align-left" src="Dash2.png" style="width:100%"/>
+
+## [Guessing the artist, a deep learning approach](https://github.com/riwasabri/DeepLearning)
+
+The goal of this project is to leverage deep learning guess the artist of a given artworks by
+using images of artworks created by a variety of artists in terms ofstyle and technique.
+
+![picture alt](https://github.com/riwasabri/DeepLearning/blob/master/deeplearning.001.jpeg)
