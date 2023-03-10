@@ -24,7 +24,7 @@ Tools: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 <img class="image-align-left" src="Classification_1.jpeg" style="width:50%"/><img class="image-align-left" src="Classification2.jpeg" style="width:50%"/>
 
 
-## [Using the power of data to flip used cars](https://github.com/riwasabri/Using-the-power-of-data-to-flip-used-cars)
+## [Assisting car buyers on cars.com in finding the best deals](https://github.com/riwasabri/Using-the-power-of-data-to-flip-used-cars)
 I scraped Cars.com's website and then used linear regression to predict car prices and identify underpriced cars.<br />
 Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib, Seaborn
 
