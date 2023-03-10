@@ -31,7 +31,7 @@ Tools used: Beautiful Soup, Pandas, Scikit-learn, Statsmodel, Matplotlib, Seabor
 <img class="image-align-left" src="Regression1.jpeg" style="width:50%"/><img class="image-align-left" src="Regression2.jpeg" style="width:50%"/>
 
 
-## [Empowering business analysts to understand complex data with interactive dashboards](https://github.com/riwasabri/Empowering-business-analysts-to-understand-complex-data-with-interactive-dashboards)
+## [Enabling business analysts to understand complex data with interactive dashboards](https://github.com/riwasabri/Empowering-business-analysts-to-understand-complex-data-with-interactive-dashboards)
 I transformed Web Analytics data from the Google Merchandise Store, and built dashboards intended to help a business user parse through this complex dataset. I also proposed a clustering approach for better customer targeting.<br />
 Tools: Microsoft Excel, Tableau, Pandas, Scikit-learn, Matplotlib, Seaborn
 
